@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- MINTA: kitalált cég és termékadatok. Élesítés előtt: valódi image_link, GTIN/MPN, a google_product_category ellenőrzése. -->
+<rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">
+  <channel>
+    <title>Hűsvölgy Klíma – klímák (MINTA)</title>
+    <link>https://husvolgy-klima.example</link>
+    <description>Klímák szereléssel Pécsen és Baranyában (minta feed)</description>
+    <item>
+      <g:id>lg-silence-special-2-s09ec</g:id>
+      <title>LG Silence Special 2 2,5 kW</title>
+      <description>LG Silence Special 2 2,5 kW oldalfali klíma: 2,5 kW hűtés, 2,8 kW fűtés, SEER 7, hűtési energiaosztály: A++. Szereléssel is rendelhető Pécsen és Baranyában.</description>
+      <link>https://husvolgy-klima.example/klimak/lg-silence-special-2-s09ec/</link>
+      <g:image_link>https://husvolgy-klima.example/kepek/termek-minta.jpg</g:image_link>
+      <g:price>244900 HUF</g:price>
+      <g:availability>in_stock</g:availability>
+      <g:brand>LG</g:brand>
+      <g:mpn>S09EC</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Home &amp; Garden &gt; Household Appliances &gt; Climate Control Appliances &gt; Air Conditioners</g:google_product_category>
+      <g:energy_efficiency_class>A++</g:energy_efficiency_class>
+      <g:shipping>
+        <g:country>HU</g:country>
+        <g:service>Futár</g:service>
+        <g:price>9990.00 HUF</g:price>
+      </g:shipping>
+    </item>
+    <item>
+      <g:id>midea-xtreme-save-mg2x-09</g:id>
+      <title>Midea Xtreme Save 2,6 kW</title>
+      <description>Midea Xtreme Save 2,6 kW oldalfali klíma: 2,6 kW hűtés, 2,9 kW fűtés, SEER 7,4, hűtési energiaosztály: A++, hűtőközeg: R32. Szereléssel is rendelhető Pécsen és Baranyában.</description>
+      <link>https://husvolgy-klima.example/klimak/midea-xtreme-save-mg2x-09/</link>
+      <g:image_link>https://husvolgy-klima.example/kepek/termek-minta.jpg</g:image_link>
+      <g:price>199900 HUF</g:price>
+      <g:availability>backorder</g:availability>
+      <g:brand>Midea</g:brand>
+      <g:mpn>MG2X-09-SP</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Home &amp; Garden &gt; Household Appliances &gt; Climate Control Appliances &gt; Air Conditioners</g:google_product_category>
+      <g:energy_efficiency_class>A++</g:energy_efficiency_class>
+      <g:shipping>
+        <g:country>HU</g:country>
+        <g:service>Futár</g:service>
+        <g:price>9990.00 HUF</g:price>
+      </g:shipping>
+    </item>
+    <item>
+      <g:id>gree-pulse-pro-gwh09agc</g:id>
+      <title>Gree Pulse Pro 2,7 kW</title>
+      <description>Gree Pulse Pro 2,7 kW oldalfali klíma: 2,7 kW hűtés, 3 kW fűtés, SEER 7,5, hűtési energiaosztály: A++. Szereléssel is rendelhető Pécsen és Baranyában.</description>
+      <link>https://husvolgy-klima.example/klimak/gree-pulse-pro-gwh09agc/</link>
+      <g:image_link>https://husvolgy-klima.example/kepek/termek-minta.jpg</g:image_link>
+      <g:price>203900 HUF</g:price>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Gree</g:brand>
+      <g:mpn>GWH09AGC-K6DNA1P</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Home &amp; Garden &gt; Household Appliances &gt; Climate Control Appliances &gt; Air Conditioners</g:google_product_category>
+      <g:energy_efficiency_class>A++</g:energy_efficiency_class>
+      <g:shipping>
+        <g:country>HU</g:country>
+        <g:service>Futár</g:service>
+        <g:price>9990.00 HUF</g:price>
+      </g:shipping>
+    </item>
+    <item>
+      <g:id>gree-pulse-gwh12agb</g:id>
+      <title>Gree Pulse 3,2 kW</title>
+      <description>Gree Pulse 3,2 kW oldalfali klíma: 3,2 kW hűtés, 3,4 kW fűtés, SEER 6,1, hűtési energiaosztály: A++, hűtőközeg: R32. Szereléssel is rendelhető Pécsen és Baranyában.</description>
+      <link>https://husvolgy-klima.example/klimak/gree-pulse-gwh12agb/</link>
+      <g:image_link>https://husvolgy-klima.example/kepek/termek-minta.jpg</g:image_link>
+      <g:price>182900 HUF</g:price>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Gree</g:brand>
+      <g:mpn>GWH12AGB-K6DNA1A</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Home &amp; Garden &gt; Household Appliances &gt; Climate Control Appliances &gt; Air Conditioners</g:google_product_category>
+      <g:energy_efficiency_class>A++</g:energy_efficiency_class>
+      <g:shipping>
+        <g:country>HU</g:country>
+        <g:service>Futár</g:service>
+        <g:price>9990.00 HUF</g:price>
+      </g:shipping>
+    </item>
+    <item>
+      <g:id>samsung-cebu-ar12txfyawkneu</g:id>
+      <title>Samsung Cebu 3,5 kW</title>
+      <description>Samsung Cebu 3,5 kW oldalfali klíma: 3,5 kW hűtés, 3,5 kW fűtés, SEER 6,5, hűtési energiaosztály: A++. Szereléssel is rendelhető Pécsen és Baranyában.</description>
+      <link>https://husvolgy-klima.example/klimak/samsung-cebu-ar12txfyawkneu/</link>
+      <g:image_link>https://husvolgy-klima.example/kepek/termek-minta.jpg</g:image_link>
+      <g:price>179900 HUF</g:price>
+      <g:availability>backorder</g:availability>
+      <g:brand>Samsung</g:brand>
+      <g:mpn>AR12TXFYAWKNEU</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Home &amp; Garden &gt; Household Appliances &gt; Climate Control Appliances &gt; Air Conditioners</g:google_product_category>
+      <g:energy_efficiency_class>A++</g:energy_efficiency_class>
+      <g:shipping>
+        <g:country>HU</g:country>
+        <g:service>Futár</g:service>
+        <g:price>9990.00 HUF</g:price>
+      </g:shipping>
+    </item>
+    <item>
+      <g:id>midea-xtreme-save-mg2x-12-bl</g:id>
+      <title>Midea Xtreme Save 3,5 kW</title>
+      <description>Midea Xtreme Save 3,5 kW oldalfali klíma: 3,5 kW hűtés, 3,8 kW fűtés, SEER 7, hűtési energiaosztály: A++, hűtőközeg: R32. Szereléssel is rendelhető Pécsen és Baranyában.</description>
+      <link>https://husvolgy-klima.example/klimak/midea-xtreme-save-mg2x-12-bl/</link>
+      <g:image_link>https://husvolgy-klima.example/kepek/termek-minta.jpg</g:image_link>
+      <g:price>219900 HUF</g:price>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Midea</g:brand>
+      <g:mpn>MG2X-12-BL-SP</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Home &amp; Garden &gt; Household Appliances &gt; Climate Control Appliances &gt; Air Conditioners</g:google_product_category>
+      <g:energy_efficiency_class>A++</g:energy_efficiency_class>
+      <g:shipping>
+        <g:country>HU</g:country>
+        <g:service>Futár</g:service>
+        <g:price>9990.00 HUF</g:price>
+      </g:shipping>
+    </item>
+    <item>
+      <g:id>daikin-sensira-ftxf25f</g:id>
+      <title>Daikin Sensira 2,5 kW</title>
+      <description>Daikin Sensira 2,5 kW oldalfali klíma: 2,5 kW hűtés, 2,8 kW fűtés, SEER 6,22, hűtési energiaosztály: A++, hűtőközeg: R32. Szereléssel is rendelhető Pécsen és Baranyában.</description>
+      <link>https://husvolgy-klima.example/klimak/daikin-sensira-ftxf25f/</link>
+      <g:image_link>https://husvolgy-klima.example/kepek/termek-minta.jpg</g:image_link>
+      <g:price>243900 HUF</g:price>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Daikin</g:brand>
+      <g:mpn>FTXF25F / RXF25F</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Home &amp; Garden &gt; Household Appliances &gt; Climate Control Appliances &gt; Air Conditioners</g:google_product_category>
+      <g:energy_efficiency_class>A++</g:energy_efficiency_class>
+      <g:shipping>
+        <g:country>HU</g:country>
+        <g:service>Futár</g:service>
+        <g:price>9990.00 HUF</g:price>
+      </g:shipping>
+    </item>
+    <item>
+      <g:id>daikin-sensira-ftxf35e</g:id>
+      <title>Daikin Sensira 3,3 kW</title>
+      <description>Daikin Sensira 3,3 kW oldalfali klíma: 3,3 kW hűtés, 3,5 kW fűtés, SEER 6,21, hűtési energiaosztály: A++, hűtőközeg: R32. Szereléssel is rendelhető Pécsen és Baranyában.</description>
+      <link>https://husvolgy-klima.example/klimak/daikin-sensira-ftxf35e/</link>
+      <g:image_link>https://husvolgy-klima.example/kepek/termek-minta.jpg</g:image_link>
+      <g:price>244900 HUF</g:price>
+      <g:availability>backorder</g:availability>
+      <g:brand>Daikin</g:brand>
+      <g:mpn>FTXF35E / RXF35E</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Home &amp; Garden &gt; Household Appliances &gt; Climate Control Appliances &gt; Air Conditioners</g:google_product_category>
+      <g:energy_efficiency_class>A++</g:energy_efficiency_class>
+      <g:shipping>
+        <g:country>HU</g:country>
+        <g:service>Futár</g:service>
+        <g:price>9990.00 HUF</g:price>
+      </g:shipping>
+    </item>
+    <item>
+      <g:id>mitsubishi-hr35vf</g:id>
+      <title>Mitsubishi Electric HR 3,4 kW</title>
+      <description>Mitsubishi Electric HR 3,4 kW oldalfali klíma: 3,4 kW hűtés, 3,6 kW fűtés, SEER 6,2, hűtési energiaosztály: A++. Szereléssel is rendelhető Pécsen és Baranyában.</description>
+      <link>https://husvolgy-klima.example/klimak/mitsubishi-hr35vf/</link>
+      <g:image_link>https://husvolgy-klima.example/kepek/termek-minta.jpg</g:image_link>
+      <g:price>284900 HUF</g:price>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Mitsubishi Electric</g:brand>
+      <g:mpn>MSZ-HR35VF / MUZ-HR35VF</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Home &amp; Garden &gt; Household Appliances &gt; Climate Control Appliances &gt; Air Conditioners</g:google_product_category>
+      <g:energy_efficiency_class>A++</g:energy_efficiency_class>
+      <g:shipping>
+        <g:country>HU</g:country>
+        <g:service>Futár</g:service>
+        <g:price>9990.00 HUF</g:price>
+      </g:shipping>
+    </item>
+    <item>
+      <g:id>lg-special-ec-ez12cys</g:id>
+      <title>LG Special EC 3,5 kW</title>
+      <description>LG Special EC 3,5 kW oldalfali klíma: 3,5 kW hűtés, 3,7 kW fűtés, SEER 6,6, hűtési energiaosztály: A++. Szereléssel is rendelhető Pécsen és Baranyában.</description>
+      <link>https://husvolgy-klima.example/klimak/lg-special-ec-ez12cys/</link>
+      <g:image_link>https://husvolgy-klima.example/kepek/termek-minta.jpg</g:image_link>
+      <g:price>219900 HUF</g:price>
+      <g:availability>in_stock</g:availability>
+      <g:brand>LG</g:brand>
+      <g:mpn>EZ12CYS</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Home &amp; Garden &gt; Household Appliances &gt; Climate Control Appliances &gt; Air Conditioners</g:google_product_category>
+      <g:energy_efficiency_class>A++</g:energy_efficiency_class>
+      <g:shipping>
+        <g:country>HU</g:country>
+        <g:service>Futár</g:service>
+        <g:price>9990.00 HUF</g:price>
+      </g:shipping>
+    </item>
+    <item>
+      <g:id>panasonic-tz35-cke</g:id>
+      <title>Panasonic Compact (TZ) 3,5 kW</title>
+      <description>Panasonic Compact (TZ) 3,5 kW oldalfali klíma: 3,5 kW hűtés, 4 kW fűtés, hűtési energiaosztály: A++, hűtőközeg: R32. Szereléssel is rendelhető Pécsen és Baranyában.</description>
+      <link>https://husvolgy-klima.example/klimak/panasonic-tz35-cke/</link>
+      <g:image_link>https://husvolgy-klima.example/kepek/termek-minta.jpg</g:image_link>
+      <g:price>349900 HUF</g:price>
+      <g:availability>backorder</g:availability>
+      <g:brand>Panasonic</g:brand>
+      <g:mpn>KIT-TZ35-CKE</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Home &amp; Garden &gt; Household Appliances &gt; Climate Control Appliances &gt; Air Conditioners</g:google_product_category>
+      <g:energy_efficiency_class>A++</g:energy_efficiency_class>
+      <g:shipping>
+        <g:country>HU</g:country>
+        <g:service>Futár</g:service>
+        <g:price>9990.00 HUF</g:price>
+      </g:shipping>
+    </item>
+    <item>
+      <g:id>mitsubishi-ay35vgkp</g:id>
+      <title>Mitsubishi Electric AY (Plasma Quad) 3,5 kW</title>
+      <description>Mitsubishi Electric AY (Plasma Quad) 3,5 kW oldalfali klíma: 3,5 kW hűtés, 4 kW fűtés, SEER 8,7, hűtési energiaosztály: A+++, hűtőközeg: R32. Szereléssel is rendelhető Pécsen és Baranyában.</description>
+      <link>https://husvolgy-klima.example/klimak/mitsubishi-ay35vgkp/</link>
+      <g:image_link>https://husvolgy-klima.example/kepek/termek-minta.jpg</g:image_link>
+      <g:price>478900 HUF</g:price>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Mitsubishi Electric</g:brand>
+      <g:mpn>MSZ-AY35VGKP / MUZ-AY35VG</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Home &amp; Garden &gt; Household Appliances &gt; Climate Control Appliances &gt; Air Conditioners</g:google_product_category>
+      <g:energy_efficiency_class>A+++</g:energy_efficiency_class>
+      <g:shipping>
+        <g:country>HU</g:country>
+        <g:service>Futár</g:service>
+        <g:price>0.00 HUF</g:price>
+      </g:shipping>
+    </item>
+    <item>
+      <g:id>cooperhunter-supreme-ch-s12</g:id>
+      <title>Cooper&amp;Hunter Supreme 3,53 kW</title>
+      <description>Cooper&amp;Hunter Supreme 3,53 kW oldalfali klíma: 3,53 kW hűtés, 4,2 kW fűtés, SEER 8,5, hűtési energiaosztály: A+++, hűtőközeg: R32. Szereléssel is rendelhető Pécsen és Baranyában.</description>
+      <link>https://husvolgy-klima.example/klimak/cooperhunter-supreme-ch-s12/</link>
+      <g:image_link>https://husvolgy-klima.example/kepek/termek-minta.jpg</g:image_link>
+      <g:price>467900 HUF</g:price>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Cooper&amp;Hunter</g:brand>
+      <g:mpn>CH-S12FTXAM2S (-WP/SC/GD/BL)</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Home &amp; Garden &gt; Household Appliances &gt; Climate Control Appliances &gt; Air Conditioners</g:google_product_category>
+      <g:energy_efficiency_class>A+++</g:energy_efficiency_class>
+      <g:shipping>
+        <g:country>HU</g:country>
+        <g:service>Futár</g:service>
+        <g:price>0.00 HUF</g:price>
+      </g:shipping>
+    </item>
+    <item>
+      <g:id>gree-pulse-gwh18agd</g:id>
+      <title>Gree Pulse 4,6 kW</title>
+      <description>Gree Pulse 4,6 kW oldalfali klíma: 4,6 kW hűtés, 5,2 kW fűtés, SEER 6,6, hűtési energiaosztály: A++. Szereléssel is rendelhető Pécsen és Baranyában.</description>
+      <link>https://husvolgy-klima.example/klimak/gree-pulse-gwh18agd/</link>
+      <g:image_link>https://husvolgy-klima.example/kepek/termek-minta.jpg</g:image_link>
+      <g:price>336900 HUF</g:price>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Gree</g:brand>
+      <g:mpn>GWH18AGD-K6DNA1D</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Home &amp; Garden &gt; Household Appliances &gt; Climate Control Appliances &gt; Air Conditioners</g:google_product_category>
+      <g:energy_efficiency_class>A++</g:energy_efficiency_class>
+      <g:shipping>
+        <g:country>HU</g:country>
+        <g:service>Futár</g:service>
+        <g:price>9990.00 HUF</g:price>
+      </g:shipping>
+    </item>
+    <item>
+      <g:id>daikin-sensira-ftxf50f</g:id>
+      <title>Daikin Sensira 5 kW</title>
+      <description>Daikin Sensira 5 kW oldalfali klíma: 5 kW hűtés, 6 kW fűtés, SEER 6,21, hűtési energiaosztály: A++, hűtőközeg: R32. Szereléssel is rendelhető Pécsen és Baranyában.</description>
+      <link>https://husvolgy-klima.example/klimak/daikin-sensira-ftxf50f/</link>
+      <g:image_link>https://husvolgy-klima.example/kepek/termek-minta.jpg</g:image_link>
+      <g:price>514900 HUF</g:price>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Daikin</g:brand>
+      <g:mpn>FTXF50F / RXF50F</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Home &amp; Garden &gt; Household Appliances &gt; Climate Control Appliances &gt; Air Conditioners</g:google_product_category>
+      <g:energy_efficiency_class>A++</g:energy_efficiency_class>
+      <g:shipping>
+        <g:country>HU</g:country>
+        <g:service>Futár</g:service>
+        <g:price>0.00 HUF</g:price>
+      </g:shipping>
+    </item>
+    <item>
+      <g:id>midea-xtreme-save-mg2x-18-bl</g:id>
+      <title>Midea Xtreme Save 5,3 kW</title>
+      <description>Midea Xtreme Save 5,3 kW oldalfali klíma: 5,3 kW hűtés, 5,6 kW fűtés, SEER 7, hűtési energiaosztály: A++, hűtőközeg: R32. Szereléssel is rendelhető Pécsen és Baranyában.</description>
+      <link>https://husvolgy-klima.example/klimak/midea-xtreme-save-mg2x-18-bl/</link>
+      <g:image_link>https://husvolgy-klima.example/kepek/termek-minta.jpg</g:image_link>
+      <g:price>374900 HUF</g:price>
+      <g:availability>backorder</g:availability>
+      <g:brand>Midea</g:brand>
+      <g:mpn>MG2X-18-BL-SP</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Home &amp; Garden &gt; Household Appliances &gt; Climate Control Appliances &gt; Air Conditioners</g:google_product_category>
+      <g:energy_efficiency_class>A++</g:energy_efficiency_class>
+      <g:shipping>
+        <g:country>HU</g:country>
+        <g:service>Futár</g:service>
+        <g:price>9990.00 HUF</g:price>
+      </g:shipping>
+    </item>
+    <item>
+      <g:id>daikin-sensira-ftxf60a</g:id>
+      <title>Daikin Sensira 6 kW</title>
+      <description>Daikin Sensira 6 kW oldalfali klíma: 6 kW hűtés, 6,4 kW fűtés, SEER 6,15, hűtési energiaosztály: A++, hűtőközeg: R32. Szereléssel is rendelhető Pécsen és Baranyában.</description>
+      <link>https://husvolgy-klima.example/klimak/daikin-sensira-ftxf60a/</link>
+      <g:image_link>https://husvolgy-klima.example/kepek/termek-minta.jpg</g:image_link>
+      <g:price>548900 HUF</g:price>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Daikin</g:brand>
+      <g:mpn>FTXF60A / RXF60B</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Home &amp; Garden &gt; Household Appliances &gt; Climate Control Appliances &gt; Air Conditioners</g:google_product_category>
+      <g:energy_efficiency_class>A++</g:energy_efficiency_class>
+      <g:shipping>
+        <g:country>HU</g:country>
+        <g:service>Futár</g:service>
+        <g:price>0.00 HUF</g:price>
+      </g:shipping>
+    </item>
+    <item>
+      <g:id>lg-silence-plus-pc24sk</g:id>
+      <title>LG Silence Plus 6,6 kW</title>
+      <description>LG Silence Plus 6,6 kW oldalfali klíma: 6,6 kW hűtés, 7,5 kW fűtés, SEER 6,2, hűtési energiaosztály: A++. Szereléssel is rendelhető Pécsen és Baranyában.</description>
+      <link>https://husvolgy-klima.example/klimak/lg-silence-plus-pc24sk/</link>
+      <g:image_link>https://husvolgy-klima.example/kepek/termek-minta.jpg</g:image_link>
+      <g:price>655900 HUF</g:price>
+      <g:availability>backorder</g:availability>
+      <g:brand>LG</g:brand>
+      <g:mpn>PC24SK</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Home &amp; Garden &gt; Household Appliances &gt; Climate Control Appliances &gt; Air Conditioners</g:google_product_category>
+      <g:energy_efficiency_class>A++</g:energy_efficiency_class>
+      <g:shipping>
+        <g:country>HU</g:country>
+        <g:service>Futár</g:service>
+        <g:price>0.00 HUF</g:price>
+      </g:shipping>
+    </item>
+    <item>
+      <g:id>daikin-multi-3mxm52a8</g:id>
+      <title>Daikin Multi kültéri 5,2 kW</title>
+      <description>Daikin Multi kültéri 5,2 kW oldalfali klíma (multi-split kültéri egység): 5,2 kW hűtés, 6,8 kW fűtés, hűtési energiaosztály: A+++. Szereléssel is rendelhető Pécsen és Baranyában.</description>
+      <link>https://husvolgy-klima.example/klimak/daikin-multi-3mxm52a8/</link>
+      <g:image_link>https://husvolgy-klima.example/kepek/termek-minta.jpg</g:image_link>
+      <g:price>762900 HUF</g:price>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Daikin</g:brand>
+      <g:mpn>3MXM52A8</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Home &amp; Garden &gt; Household Appliances &gt; Climate Control Appliances &gt; Air Conditioners</g:google_product_category>
+      <g:energy_efficiency_class>A+++</g:energy_efficiency_class>
+      <g:shipping>
+        <g:country>HU</g:country>
+        <g:service>Futár</g:service>
+        <g:price>0.00 HUF</g:price>
+      </g:shipping>
+    </item>
+    <item>
+      <g:id>midea-multi-m2oe-18hfn8-q</g:id>
+      <title>Midea Multi kültéri 5,3 kW</title>
+      <description>Midea Multi kültéri 5,3 kW oldalfali klíma (multi-split kültéri egység): 5,3 kW hűtés, 5,6 kW fűtés, SEER 6,3, hűtési energiaosztály: A++. Szereléssel is rendelhető Pécsen és Baranyában.</description>
+      <link>https://husvolgy-klima.example/klimak/midea-multi-m2oe-18hfn8-q/</link>
+      <g:image_link>https://husvolgy-klima.example/kepek/termek-minta.jpg</g:image_link>
+      <g:price>399900 HUF</g:price>
+      <g:availability>in_stock</g:availability>
+      <g:brand>Midea</g:brand>
+      <g:mpn>M2OE-18HFN8-Q</g:mpn>
+      <g:condition>new</g:condition>
+      <g:google_product_category>Home &amp; Garden &gt; Household Appliances &gt; Climate Control Appliances &gt; Air Conditioners</g:google_product_category>
+      <g:energy_efficiency_class>A++</g:energy_efficiency_class>
+      <g:shipping>
+        <g:country>HU</g:country>
+        <g:service>Futár</g:service>
+        <g:price>9990.00 HUF</g:price>
+      </g:shipping>
+    </item>
+  </channel>
+</rss>

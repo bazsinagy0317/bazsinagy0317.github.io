@@ -1,0 +1,4 @@
+# MINTA – élesítéskor: Allow: / és Sitemap sor
+User-agent: *
+Disallow: /
+# Sitemap: https://husvolgy-klima.example/sitemap.xml
